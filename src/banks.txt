@@ -1,0 +1,7 @@
+Bank: AlfaBank
+Кредит на авто,5.5,500000,5,true,false
+Ипотека,4.0,2000000,15,true,true
+
+Bank: Sberbank
+Потребительский кредит,10.5,300000,3,false,true
+Ипотека,4.2,2500000,20,true,false
